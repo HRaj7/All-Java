@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: darkslateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+    border-style: ridge;
+    border-width: 20px ;
+}
+p{
+    color: darkslateblue;
+    font-size: larger;
+    font-family:  Geneva, Tahoma, sans-serif;   
+}
